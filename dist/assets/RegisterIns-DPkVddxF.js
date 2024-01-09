@@ -1,0 +1,1 @@
+import{u as n,j as s,s as e}from"./index-0yBkovHs.js";function a(){const{t}=n();return s.jsxs("div",{className:e.section,id:"registerins",children:[s.jsx("h3",{className:e.heading3,children:t("get_start")}),s.jsx("h5",{className:e.heading5,children:t("how_to_register")}),s.jsx("p",{className:e.contentp,children:t("how_to_register_content")})]})}export{a as default};
